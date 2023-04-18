@@ -34,10 +34,7 @@ You can change the language for voice input by modifying the lang variable in th
 You can customize the GUI window appearance by modifying the fnt1 and fnt2 variables, which define the font sizes for different elements in the GUI.
 You can add or modify the list of punctuations in the list_of_punctuations dictionary to suit your needs.
 Contributing
-Feel free to contribute to this project by reporting issues, suggesting improvements, or submitting pull requests. Contributions are always welcome!
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Acknowledgements
 SpeechRecognition - Python library for performing speech recognition tasks.
